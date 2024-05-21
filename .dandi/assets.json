@@ -5,7 +5,7 @@
 "blob":
 "d368689c-9709-4d05-84b4-ed819d4e1e7c",
 "created":
-"2023-11-11T15:56:16.134505+00:00",
+"2023-11-11T15:56:16.134505Z",
 "metadata":
 {
 "@context":
@@ -191,7 +191,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:16.134520+00:00",
+"2023-11-11T15:56:16.134520Z",
 "path":
 "sub-Temp-pref-F24-B24-6dpf-01-unsorted-nac/sub-Temp-pref-F24-B24-6dpf-01-unsorted-nac_ses-20230612T124900_behavior.nwb",
 "size":
@@ -203,7 +203,7 @@
 "blob":
 "e0fb15b3-51db-48e0-ba9d-20aa5066a481",
 "created":
-"2023-11-11T15:56:17.751456+00:00",
+"2023-11-11T15:56:17.751456Z",
 "metadata":
 {
 "@context":
@@ -389,7 +389,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:17.751475+00:00",
+"2023-11-11T15:56:17.751475Z",
 "path":
 "sub-Temp-pref-F24-B24-6dpf-02-unsorted-nac/sub-Temp-pref-F24-B24-6dpf-02-unsorted-nac_ses-20230612T132200_behavior.nwb",
 "size":
@@ -401,7 +401,7 @@
 "blob":
 "86f676c5-7875-4d97-a2ef-4c2650ab1c3f",
 "created":
-"2023-11-11T15:56:17.754891+00:00",
+"2023-11-11T15:56:17.754891Z",
 "metadata":
 {
 "@context":
@@ -587,7 +587,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:17.754907+00:00",
+"2023-11-11T15:56:17.754907Z",
 "path":
 "sub-Temp-pref-F24-B24-6dpf-03-unsorted-nac/sub-Temp-pref-F24-B24-6dpf-03-unsorted-nac_ses-20230612T141800_behavior.nwb",
 "size":
@@ -599,7 +599,7 @@
 "blob":
 "75e58eb9-babc-40b1-9d95-ff811c224232",
 "created":
-"2023-11-11T15:56:16.082369+00:00",
+"2023-11-11T15:56:16.082369Z",
 "metadata":
 {
 "@context":
@@ -785,7 +785,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:16.082381+00:00",
+"2023-11-11T15:56:16.082381Z",
 "path":
 "sub-Temp-pref-F24-B24-6dpf-04-unsorted-nac/sub-Temp-pref-F24-B24-6dpf-04-unsorted-nac_ses-20230612T145100_behavior.nwb",
 "size":
@@ -797,7 +797,7 @@
 "blob":
 "967881b0-f483-427d-9276-2156858434e3",
 "created":
-"2023-11-11T15:56:16.779746+00:00",
+"2023-11-11T15:56:16.779746Z",
 "metadata":
 {
 "@context":
@@ -983,7 +983,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:16.779758+00:00",
+"2023-11-11T15:56:16.779758Z",
 "path":
 "sub-Temp-pref-F24-B24-6dpf-05-unsorted-nac/sub-Temp-pref-F24-B24-6dpf-05-unsorted-nac_ses-20230612T152300_behavior.nwb",
 "size":
@@ -995,7 +995,7 @@
 "blob":
 "cf3aa016-0acf-4e05-8dce-3bf00cf589a0",
 "created":
-"2023-11-11T15:56:20.232535+00:00",
+"2023-11-11T15:56:20.232535Z",
 "metadata":
 {
 "@context":
@@ -1181,7 +1181,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:20.232549+00:00",
+"2023-11-11T15:56:20.232549Z",
 "path":
 "sub-Temp-pref-F24-B24-6dpf-06-unsorted-nac/sub-Temp-pref-F24-B24-6dpf-06-unsorted-nac_ses-20230612T155800_behavior.nwb",
 "size":
@@ -1193,7 +1193,7 @@
 "blob":
 "03931d6a-9e56-4814-970e-f001e480b8ff",
 "created":
-"2023-11-11T15:56:18.596270+00:00",
+"2023-11-11T15:56:18.596270Z",
 "metadata":
 {
 "@context":
@@ -1379,7 +1379,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:18.596284+00:00",
+"2023-11-11T15:56:18.596284Z",
 "path":
 "sub-Temp-pref-F24-B24-6dpf-07-unsorted-nac/sub-Temp-pref-F24-B24-6dpf-07-unsorted-nac_ses-20230612T163000_behavior.nwb",
 "size":
@@ -1391,7 +1391,7 @@
 "blob":
 "8da25f88-5459-4639-a665-ddfeeab3c766",
 "created":
-"2023-11-11T15:56:19.655233+00:00",
+"2023-11-11T15:56:19.655233Z",
 "metadata":
 {
 "@context":
@@ -1577,7 +1577,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:19.655246+00:00",
+"2023-11-11T15:56:19.655246Z",
 "path":
 "sub-Temp-pref-F24-B24-7dpf-08-unsorted-nac/sub-Temp-pref-F24-B24-7dpf-08-unsorted-nac_ses-20230613T105700_behavior.nwb",
 "size":
@@ -1589,7 +1589,7 @@
 "blob":
 "6814e805-79c8-46dd-bd6f-4b49689dc9f4",
 "created":
-"2023-11-11T15:56:20.844682+00:00",
+"2023-11-11T15:56:20.844682Z",
 "metadata":
 {
 "@context":
@@ -1775,7 +1775,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:20.844696+00:00",
+"2023-11-11T15:56:20.844696Z",
 "path":
 "sub-Temp-pref-F24-B24-7dpf-09-unsorted-nac/sub-Temp-pref-F24-B24-7dpf-09-unsorted-nac_ses-20230613T114300_behavior.nwb",
 "size":
@@ -1787,7 +1787,7 @@
 "blob":
 "cb8ea4ef-c424-4736-8855-02e7b8ec52c4",
 "created":
-"2023-11-11T15:56:22.628121+00:00",
+"2023-11-11T15:56:22.628121Z",
 "metadata":
 {
 "@context":
@@ -1973,7 +1973,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:22.628136+00:00",
+"2023-11-11T15:56:22.628136Z",
 "path":
 "sub-Temp-pref-F24-B24-7dpf-10-unsorted-nac/sub-Temp-pref-F24-B24-7dpf-10-unsorted-nac_ses-20230613T121400_behavior.nwb",
 "size":
@@ -1985,7 +1985,7 @@
 "blob":
 "5dd7aace-2942-4f00-8268-da4d41b57e66",
 "created":
-"2023-11-11T15:56:21.497758+00:00",
+"2023-11-11T15:56:21.497758Z",
 "metadata":
 {
 "@context":
@@ -2171,7 +2171,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:21.497772+00:00",
+"2023-11-11T15:56:21.497772Z",
 "path":
 "sub-Temp-pref-F24-B24-7dpf-11-unsorted-nac/sub-Temp-pref-F24-B24-7dpf-11-unsorted-nac_ses-20230613T130600_behavior.nwb",
 "size":
@@ -2183,7 +2183,7 @@
 "blob":
 "b561cb4b-3d43-4995-802b-60807269f8d2",
 "created":
-"2023-11-11T15:56:22.271651+00:00",
+"2023-11-11T15:56:22.271651Z",
 "metadata":
 {
 "@context":
@@ -2369,7 +2369,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:22.271665+00:00",
+"2023-11-11T15:56:22.271665Z",
 "path":
 "sub-Temp-pref-F24-B24-7dpf-12-unsorted-nac/sub-Temp-pref-F24-B24-7dpf-12-unsorted-nac_ses-20230613T133700_behavior.nwb",
 "size":
@@ -2381,7 +2381,7 @@
 "blob":
 "87584a87-4b87-4f70-a085-4f11fbac8328",
 "created":
-"2023-11-11T15:56:22.811689+00:00",
+"2023-11-11T15:56:22.811689Z",
 "metadata":
 {
 "@context":
@@ -2567,7 +2567,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:22.811707+00:00",
+"2023-11-11T15:56:22.811707Z",
 "path":
 "sub-Temp-pref-F24-B24-7dpf-13-unsorted-nac/sub-Temp-pref-F24-B24-7dpf-13-unsorted-nac_ses-20230613T145500_behavior.nwb",
 "size":
@@ -2579,7 +2579,7 @@
 "blob":
 "1a3e8ddc-35fa-4439-b180-4d7b55de7963",
 "created":
-"2023-11-11T15:56:23.168360+00:00",
+"2023-11-11T15:56:23.168360Z",
 "metadata":
 {
 "@context":
@@ -2765,7 +2765,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:23.168374+00:00",
+"2023-11-11T15:56:23.168374Z",
 "path":
 "sub-Temp-pref-F24-B24-7dpf-14-unsorted-nac/sub-Temp-pref-F24-B24-7dpf-14-unsorted-nac_ses-20230613T153000_behavior.nwb",
 "size":
@@ -2777,7 +2777,7 @@
 "blob":
 "50239f4f-7d2a-46a4-aaa1-7eaf39435d9c",
 "created":
-"2023-11-11T15:56:23.363097+00:00",
+"2023-11-11T15:56:23.363097Z",
 "metadata":
 {
 "@context":
@@ -2963,7 +2963,7 @@
 ]
 },
 "modified":
-"2023-11-11T15:56:23.363110+00:00",
+"2023-11-11T15:56:23.363110Z",
 "path":
 "sub-Temp-pref-F24-B24-7dpf-15-unsorted-nac/sub-Temp-pref-F24-B24-7dpf-15-unsorted-nac_ses-20230613T160200_behavior.nwb",
 "size":
