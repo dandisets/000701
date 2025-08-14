@@ -57,6 +57,7 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-11-11T15:54:14.937949+00:00'
+datePublished: '2025-08-14T19:13:58.649762+00:00'
 description: Fish swimming behavior in light at constant 24C
 ethicsApproval: []
 id: DANDI:000701/draft
@@ -68,6 +69,18 @@ manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000701/versions/draft/assets/
 name: Constant temperature behavior 24C
 protocol: []
+publishedBy:
+  endDate: '2025-08-14T19:13:58.649762+00:00'
+  id: urn:uuid:f6cdd327-acb7-4c01-b04f-b135594d892a
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2025-08-14T19:13:58.649762+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:b5c1aa54-7eaa-4664-bddc-a1c178488162
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
